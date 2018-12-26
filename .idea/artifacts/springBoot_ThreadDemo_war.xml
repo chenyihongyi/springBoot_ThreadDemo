@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springBoot_ThreadDemo:war">
+    <output-path>$PROJECT_DIR$/springBoot_ThreadDemo/target</output-path>
+    <root id="archive" name="springBoot_ThreadDemo-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springBoot_ThreadDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
