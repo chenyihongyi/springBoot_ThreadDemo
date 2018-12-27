@@ -15,4 +15,6 @@ import java.lang.annotation.Target;
 public @interface NotRecommend {
 
     String value() default "";
+
+
 }

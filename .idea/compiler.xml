@@ -9,8 +9,8 @@
         <module name="springBoot_ThreadDemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springBoot_ThreadDemo" target="1.7" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="springBoot_ThreadDemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
